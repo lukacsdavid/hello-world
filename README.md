@@ -1,2 +1,2 @@
 # hello-world
-First coding 'Hello World' in github :D
+# First time coding 'Hello World' in github :D
